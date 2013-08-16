@@ -1,4 +1,4 @@
-pH13Blog
+<h4><b>pH13Blog</b></h4>
 
 pH13Blog aims to be a basic (hence the name) blogging platform. Blogging is not
 perhaps the correct word, since pH13Blog is far less complicated than other 
@@ -22,4 +22,4 @@ avaiable at the page blog/s.php?POSTID (with blog/ being the chosen path,
 There's really nothing else to say: other infos are available as comments in the
 files.
 
-darkjoker
+<b><i>darkjoker</i></b>
