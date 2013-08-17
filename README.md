@@ -17,7 +17,7 @@ Whenever you need to publish a new post, write it as a .txt file, upload it in
 your posts/ directory (you can create subdirectories as well!) and rename the 
 file using some random digits (followed by the extension). The post will then be
 avaiable at the page blog/s.php?POSTID (with blog/ being the chosen path,
-(e.g. http://darkjoker.voidsec.com/blog/s.php?0123456).
+(e.g. http://darkjoker.voidsec.com/b/s.php?8509446 ).
 
 A basic index has been added: this page will show a list of the latest posts
 published,plus a list of categories available (i.e. a list of all the subdirs).
