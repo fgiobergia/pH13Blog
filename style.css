@@ -1,0 +1,20 @@
+pre {
+	font-family: Monospace;
+	font-size: 12px;
+}
+
+div.code {
+	border: 1px solid #666666;
+	background: #EAEAEA;
+	width: 560px; /* 80cols * 7pixel */
+	overflow: auto;
+}
+
+a:link, a:visited {
+	color: #0000FF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
