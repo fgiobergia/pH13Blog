@@ -31,6 +31,7 @@ for ($i=0;$i<count($dirs);$i++) {
 				die ("Summat wrong here :-/");
 			}
 			list ($title,$timestamp,$content) = explode ("\n",$data,3);
+			$title .= " ~ {$site_name}";
 			$body = "<pre>\n".
 			        "<span style = 'font-size: 18px;'><b>{$title}</b></span>\n\n\n".
 			        "<i>Published on ".date($date_format)."</i>\n\n".

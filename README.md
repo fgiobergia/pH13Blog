@@ -19,6 +19,11 @@ file using some random digits (followed by the extension). The post will then be
 avaiable at the page blog/s.php?POSTID (with blog/ being the chosen path,
 (e.g. http://darkjoker.voidsec.com/blog/s.php?0123456).
 
+A basic index has been added: this page will show a list of the latest posts
+published,plus a list of categories available (i.e. a list of all the subdirs).
+I strongly recommand not to publish posts in the "main" directory, since such
+directory won't be shown in the categories list.
+
 There's really nothing else to say: other infos are available as comments in the
 files.
 
